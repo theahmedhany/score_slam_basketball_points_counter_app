@@ -13,10 +13,7 @@ This app offers a streamlined solution for scorekeeping during basketball games,
 
 ## Demo and Resources
 ### To see Score Slam in action, check out the video below:
-<!-- <video width="500" height="300" controls autoplay muted>
-  <source src="******************" type="video/mp4">
-  There was an error in the video.
-</video> -->
+https://github.com/user-attachments/assets/595c67a9-1531-4c1c-8bcd-64c852d09f4a
 
 ### Explore the application post on LinkedIn: **************<a target="_blank" href="https://**************"> Click Here. </a>
 
