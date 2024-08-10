@@ -195,5 +195,4 @@ class _BasketballPointsCounterState extends State<BasketballPointsCounter> {
       ),
     );
   }
-  //-------------
 }
