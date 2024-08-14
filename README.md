@@ -13,7 +13,7 @@ This app offers a streamlined solution for scorekeeping during basketball games,
 
 ## Demo and Resources
 #### To see Score Slam in action, check out the video below:
-https://github.com/user-attachments/assets/595c67a9-1531-4c1c-8bcd-64c852d09f4a
+https://github.com/user-attachments/assets/a3fffebd-1b71-46be-ba3d-72458826e1f8
 
 #### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-scoreslamapp-activity-7227951784290340865-BPrf/"> Click Here. </a>
 
