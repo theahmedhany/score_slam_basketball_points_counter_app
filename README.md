@@ -1,15 +1,19 @@
-# Score Slam: Basketball Points Counter App.
+# Score Slam: Basketball Points Counter App
 A new Flutter Application.
 
+
 ## Description
-Score Slam is a user-friendly mobile application designed to make tracking basketball game scores effortless. Developed using Flutter, the app allows users to manage scores for two teams, Team A and Team B, with ease. The interface features intuitive buttons to add 1, 2, or 3 points for each team, and a reset button to quickly reset the scores to zero.
+**Score Slam** is a user-friendly mobile application designed to make tracking basketball game scores effortless. Developed using Flutter, the app allows users to manage scores for two teams, Team A and Team B, with ease. The interface features intuitive buttons to add 1, 2, or 3 points for each team, and a reset button to quickly reset the scores to zero.
+
 
 ## About
-This app offers a streamlined solution for scorekeeping during basketball games, making it an ideal tool for coaches, players, and fans alike. With its simple and responsive design, Score Slam ensures that score management is both efficient and accessible. The app is a testament to my growing expertise in Flutter, particularly in the effective use of stateful and stateless widgets, which are key to delivering a smooth and dynamic user experience.
+This app offers a streamlined solution for scorekeeping during basketball games, making it an ideal tool for coaches, players, and fans alike. With its simple and responsive design, **Score Slam** ensures that score management is both efficient and accessible. The app is a testament to my growing expertise in Flutter, particularly in the effective use of stateful and stateless widgets, which are key to delivering a smooth and dynamic user experience.
+
 
 ## Key Features
-- Score Buttons: Three dedicated buttons for each team to add 1, 2, or 3 points.
-- Reset Button: A reset option to clear the scores for both teams instantly.
+- **Score Buttons:** Three dedicated buttons for each team to add 1, 2, or 3 points.
+- **Reset Button:** A reset option to clear the scores for both teams instantly.
+
 
 ## Demo and Resources
 #### To see Score Slam in action, check out the video below:
